@@ -161,6 +161,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 
 ## Survyes
 - A Survey of Large Language Models (arXiv'23) [link to paper](https://arxiv.org/abs/2303.18223)
+- Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions (arXiv'25) [link to paper](https://arxiv.org/pdf/2503.16585) [link to Github repo](https://github.com/solidlabnetwork/awesome-distributed-LLM)
 - Challenges and Applications of Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2307.10169)
 - FLM-101B: An Open LLM and How to Train It with $100K Budget (arXiv'23)[link to paper](https://arxiv.org/abs/2309.03852)
 - Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems (arXiv'23)[link to paper](https://arxiv.org/pdf/2312.15234.pdf)
